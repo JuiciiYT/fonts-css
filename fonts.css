@@ -1,3 +1,23 @@
 /* Light */
 
-@font-face
+@font-face {
+  font-family:Youtube Sans;
+  src:url("https://github.com/JuiciiYT/fonts-css/blob/main/youtube-sans-light.ttf?raw=true") format('truetype');
+  font-weight:200;
+}
+
+/* Normal */
+
+@font-face {
+  font-family:Youtube Sans;
+  src:url("https://github.com/JuiciiYT/fonts-css/blob/main/youtube-sans-medium.ttf?raw=true") format('truetype');
+  font-weight:normal;
+}
+
+/* Bold */
+
+@font-face {
+  font-family:Youtube Sans;
+  src:url("https://github.com/JuiciiYT/fonts-css/blob/main/youtube-sans-bold.ttf?raw=true") format('truetype');
+  font-weight:bold;
+}
