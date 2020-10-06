@@ -2,7 +2,7 @@
 
 @font-face {
   font-family:Youtube Sans;
-  src:url("https://github.com/JuiciiYT/fonts-css/blob/main/youtube-sans-light.ttf?raw=true") format('truetype');
+  src:url("https://raw.githubusercontent.com/JuiciiYT/fonts-css/main/youtube-sans-light.ttf") format('truetype');
   font-weight:200;
 }
 
@@ -10,7 +10,7 @@
 
 @font-face {
   font-family:Youtube Sans;
-  src:url("https://github.com/JuiciiYT/fonts-css/blob/main/youtube-sans-medium.ttf?raw=true") format('truetype');
+  src:url("https://raw.githubusercontent.com/JuiciiYT/fonts-css/main/youtube-sans-medium.ttf") format('truetype');
   font-weight:normal;
 }
 
@@ -18,6 +18,6 @@
 
 @font-face {
   font-family:Youtube Sans;
-  src:url("https://github.com/JuiciiYT/fonts-css/blob/main/youtube-sans-bold.ttf?raw=true") format('truetype');
+  src:url("https://raw.githubusercontent.com/JuiciiYT/fonts-css/main/youtube-sans-bold.ttf") format('truetype');
   font-weight:bold;
 }
